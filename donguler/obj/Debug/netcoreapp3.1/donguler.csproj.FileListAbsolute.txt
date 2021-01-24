@@ -1,0 +1,13 @@
+C:\Users\kny\source\repos\Kampintro\donguler\bin\Debug\netcoreapp3.1\donguler.exe
+C:\Users\kny\source\repos\Kampintro\donguler\bin\Debug\netcoreapp3.1\donguler.deps.json
+C:\Users\kny\source\repos\Kampintro\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.json
+C:\Users\kny\source\repos\Kampintro\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.dev.json
+C:\Users\kny\source\repos\Kampintro\donguler\bin\Debug\netcoreapp3.1\donguler.dll
+C:\Users\kny\source\repos\Kampintro\donguler\bin\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\kny\source\repos\Kampintro\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfoInputs.cache
+C:\Users\kny\source\repos\Kampintro\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfo.cs
+C:\Users\kny\source\repos\Kampintro\donguler\obj\Debug\netcoreapp3.1\donguler.csproj.CoreCompileInputs.cache
+C:\Users\kny\source\repos\Kampintro\donguler\obj\Debug\netcoreapp3.1\donguler.dll
+C:\Users\kny\source\repos\Kampintro\donguler\obj\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\kny\source\repos\Kampintro\donguler\obj\Debug\netcoreapp3.1\donguler.genruntimeconfig.cache
+C:\Users\kny\source\repos\Kampintro\donguler\obj\Debug\netcoreapp3.1\donguler.csprojAssemblyReference.cache

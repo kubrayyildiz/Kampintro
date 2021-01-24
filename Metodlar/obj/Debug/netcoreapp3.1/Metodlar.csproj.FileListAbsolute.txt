@@ -1,0 +1,13 @@
+C:\Users\kny\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.exe
+C:\Users\kny\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.deps.json
+C:\Users\kny\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.json
+C:\Users\kny\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.dev.json
+C:\Users\kny\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.dll
+C:\Users\kny\source\repos\Kampintro\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.pdb
+C:\Users\kny\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csprojAssemblyReference.cache
+C:\Users\kny\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfoInputs.cache
+C:\Users\kny\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfo.cs
+C:\Users\kny\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\kny\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.dll
+C:\Users\kny\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.pdb
+C:\Users\kny\source\repos\Kampintro\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.genruntimeconfig.cache

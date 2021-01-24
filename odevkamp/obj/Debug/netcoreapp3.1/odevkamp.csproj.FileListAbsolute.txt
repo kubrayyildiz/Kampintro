@@ -1,0 +1,13 @@
+C:\Users\kny\source\repos\Kampintro\odevkamp\obj\Debug\netcoreapp3.1\odevkamp.csprojAssemblyReference.cache
+C:\Users\kny\source\repos\Kampintro\odevkamp\obj\Debug\netcoreapp3.1\odevkamp.AssemblyInfoInputs.cache
+C:\Users\kny\source\repos\Kampintro\odevkamp\obj\Debug\netcoreapp3.1\odevkamp.AssemblyInfo.cs
+C:\Users\kny\source\repos\Kampintro\odevkamp\obj\Debug\netcoreapp3.1\odevkamp.csproj.CoreCompileInputs.cache
+C:\Users\kny\source\repos\Kampintro\odevkamp\bin\Debug\netcoreapp3.1\odevkamp.exe
+C:\Users\kny\source\repos\Kampintro\odevkamp\bin\Debug\netcoreapp3.1\odevkamp.deps.json
+C:\Users\kny\source\repos\Kampintro\odevkamp\bin\Debug\netcoreapp3.1\odevkamp.runtimeconfig.json
+C:\Users\kny\source\repos\Kampintro\odevkamp\bin\Debug\netcoreapp3.1\odevkamp.runtimeconfig.dev.json
+C:\Users\kny\source\repos\Kampintro\odevkamp\bin\Debug\netcoreapp3.1\odevkamp.dll
+C:\Users\kny\source\repos\Kampintro\odevkamp\bin\Debug\netcoreapp3.1\odevkamp.pdb
+C:\Users\kny\source\repos\Kampintro\odevkamp\obj\Debug\netcoreapp3.1\odevkamp.dll
+C:\Users\kny\source\repos\Kampintro\odevkamp\obj\Debug\netcoreapp3.1\odevkamp.pdb
+C:\Users\kny\source\repos\Kampintro\odevkamp\obj\Debug\netcoreapp3.1\odevkamp.genruntimeconfig.cache

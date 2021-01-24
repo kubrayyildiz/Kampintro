@@ -1,0 +1,13 @@
+C:\Users\kny\source\repos\Kampintro\Genericsintro\obj\Debug\netcoreapp3.1\Genericsintro.csprojAssemblyReference.cache
+C:\Users\kny\source\repos\Kampintro\Genericsintro\obj\Debug\netcoreapp3.1\Genericsintro.AssemblyInfoInputs.cache
+C:\Users\kny\source\repos\Kampintro\Genericsintro\obj\Debug\netcoreapp3.1\Genericsintro.AssemblyInfo.cs
+C:\Users\kny\source\repos\Kampintro\Genericsintro\obj\Debug\netcoreapp3.1\Genericsintro.csproj.CoreCompileInputs.cache
+C:\Users\kny\source\repos\Kampintro\Genericsintro\bin\Debug\netcoreapp3.1\Genericsintro.exe
+C:\Users\kny\source\repos\Kampintro\Genericsintro\bin\Debug\netcoreapp3.1\Genericsintro.deps.json
+C:\Users\kny\source\repos\Kampintro\Genericsintro\bin\Debug\netcoreapp3.1\Genericsintro.runtimeconfig.json
+C:\Users\kny\source\repos\Kampintro\Genericsintro\bin\Debug\netcoreapp3.1\Genericsintro.runtimeconfig.dev.json
+C:\Users\kny\source\repos\Kampintro\Genericsintro\bin\Debug\netcoreapp3.1\Genericsintro.dll
+C:\Users\kny\source\repos\Kampintro\Genericsintro\bin\Debug\netcoreapp3.1\Genericsintro.pdb
+C:\Users\kny\source\repos\Kampintro\Genericsintro\obj\Debug\netcoreapp3.1\Genericsintro.dll
+C:\Users\kny\source\repos\Kampintro\Genericsintro\obj\Debug\netcoreapp3.1\Genericsintro.pdb
+C:\Users\kny\source\repos\Kampintro\Genericsintro\obj\Debug\netcoreapp3.1\Genericsintro.genruntimeconfig.cache
