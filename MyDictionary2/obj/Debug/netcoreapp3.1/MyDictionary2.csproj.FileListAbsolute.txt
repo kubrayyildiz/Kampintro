@@ -1,0 +1,13 @@
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\bin\Debug\netcoreapp3.1\MyDictionary2.exe
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\bin\Debug\netcoreapp3.1\MyDictionary2.deps.json
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\bin\Debug\netcoreapp3.1\MyDictionary2.runtimeconfig.json
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\bin\Debug\netcoreapp3.1\MyDictionary2.runtimeconfig.dev.json
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\bin\Debug\netcoreapp3.1\MyDictionary2.dll
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\bin\Debug\netcoreapp3.1\MyDictionary2.pdb
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\obj\Debug\netcoreapp3.1\MyDictionary2.csprojAssemblyReference.cache
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\obj\Debug\netcoreapp3.1\MyDictionary2.AssemblyInfoInputs.cache
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\obj\Debug\netcoreapp3.1\MyDictionary2.AssemblyInfo.cs
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\obj\Debug\netcoreapp3.1\MyDictionary2.csproj.CoreCompileInputs.cache
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\obj\Debug\netcoreapp3.1\MyDictionary2.dll
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\obj\Debug\netcoreapp3.1\MyDictionary2.pdb
+C:\Users\kny\source\repos\Kampintro\MyDictionary2\obj\Debug\netcoreapp3.1\MyDictionary2.genruntimeconfig.cache
